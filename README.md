@@ -1,5 +1,5 @@
 # Project-on-Data-Analytics
-The project deals with the data set of 2 different countries. It has Comparative analysis between the two countries.
+The project deals with the data set of 2 different countries Using Python as main Language. It has Comparative analysis between the two countries.
 
 # About-the-project
 1) It Analyses data of India and USA. 
